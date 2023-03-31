@@ -6,7 +6,7 @@
 #    By: begarijo <begarijo@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/09/22 12:51:51 by begarijo          #+#    #+#              #
-#    Updated: 2023/03/31 14:36:30 by begarijo         ###   ########.fr        #
+#    Updated: 2023/03/31 14:53:14 by begarijo         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -23,6 +23,7 @@ SRC			=	ft_isalpha.c ft_isdigit.c ft_toupper.c \
 				ft_strrchr.c ft_memcpy.c ft_memchr.c \
 				ft_tolower.c ft_memset.c ft_memmove.c \
 				ft_strlcpy.c ft_strncmp.c ft_strnstr.c \
+				ft_putchar.c ft_putnbr.c \
 				ft_atoi.c ft_memcmp.c ft_bzero.c ft_calloc.c \
 				ft_strdup.c ft_substr.c ft_strjoin.c \
 				ft_split.c ft_strtrim.c ft_itoa.c \

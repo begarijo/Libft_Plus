@@ -6,7 +6,7 @@
 /*   By: begarijo <begarijo@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/22 16:12:31 by begarijo          #+#    #+#             */
-/*   Updated: 2023/03/31 13:22:48 by begarijo         ###   ########.fr       */
+/*   Updated: 2023/03/31 14:51:15 by begarijo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -53,6 +53,8 @@ char		*ft_strnstr(const char *haystack, const char *needle, size_t len);
 int			ft_atoi(const char *str);
 void		*ft_calloc(size_t count, size_t size);
 char		*ft_strdup(const char *s1);
+void		ft_putchar(int c);
+void		ft_putnbr(int nb);
 
 /*Aditionals*/
 
